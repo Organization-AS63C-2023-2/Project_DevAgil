@@ -3,18 +3,18 @@
 ![Descrição da imagem](https://th.bing.com/th/id/OIP.62xhvNEXe6zrO_b7GasapAHaHa?pid=ImgDet&rs=1)
 
 ## Disciplina
-Nome da Disciplina: [Desenvolvimento Ágil]
-Ano: [2023.2]
-Semestre: [3° Semestre]
+Nome da Disciplina: Desenvolvimento Ágil
+Ano: 2023.2
+Semestre: 3° Semestre
 
 ## Integrantes do Grupo
 - [Italo Ventura](https://github.com/ItaloVenturaa)  
-  ![Foto do Integrante 1](link_para_foto_do_integrante1)
+  
 - [Igor Batista](https://github.com/IgorBatistaLima)  
-  ![Foto do Integrante 2](link_para_foto_do_integrante2)
+
 - [Ettore Gobato](https://github.com/EttoreGobato)  
-  ![Foto do Integrante 3](link_para_foto_do_integrante3)
-- [Nome do Integrante 4](link_para_perfil_do_github_do_integrante3)  
+
+- [João Stopa](link_para_perfil_do_github_do_integrante3)  
   ![Foto do Integrante 4](link_para_foto_do_integrante3)
 
 ## Descrição do Projeto
@@ -25,7 +25,7 @@ O projeto Error 404 é uma iniciativa inovadora do nosso grupo, que consiste em 
 O objetivo central desta plataforma é facilitar a vida dos alunos em situações de ausência nas aulas, permitindo-lhes acesso fácil e rápido às informações e materiais relevantes da disciplina, sem depender de colegas para obter informações atualizadas.
 
 **Público-Alvo:**
-Nosso público-alvo é composto por alunos e professores da Universidade Federal da sua região (substitua "urfpte" pelo nome correto da instituição). A plataforma busca atender às necessidades específicas desse grupo, promovendo uma experiência mais eficaz de aprendizado e comunicação.
+Nosso público-alvo é composto por alunos e professores da Universidade Tecnológica Federal do Paraná. A plataforma busca atender às necessidades específicas desse grupo, promovendo uma experiência mais eficaz de aprendizado e comunicação.
 
 **Outros Detalhes Relevantes:**
 Além disso, o projeto visa promover a interação e a colaboração entre alunos e professores, incentivando a participação ativa na comunidade acadêmica. Acreditamos que essa solução pode melhorar significativamente a experiência educacional de todos os envolvidos.
