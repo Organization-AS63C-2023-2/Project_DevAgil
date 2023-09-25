@@ -17,8 +17,7 @@ Semestre: 3° Semestre
 
 - [Ettore Gobato](https://github.com/EttoreGobato)  
 
-- [João Stopa](link_para_perfil_do_github_do_integrante3)  
-  ![Foto do Integrante 4](link_para_foto_do_integrante3)
+- [João Stopa](https://github.com/Joaostopa)  
 
 ## Descrição do Projeto
 
