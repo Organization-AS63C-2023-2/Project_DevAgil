@@ -13,6 +13,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
         </tr>
     </thead>
 
+<table>
 
 
 # 2. Referências
