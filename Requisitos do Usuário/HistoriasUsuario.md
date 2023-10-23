@@ -20,7 +20,7 @@
         <td style="border: 1px solid black; padding: 8px;">Eu, como professor da UTFPR, quero poder compartilhar as informações e materiais relevantes da disciplina com meus alunos.</td>
         <td style="border: 1px solid black; padding: 8px;">- O professor deve ser capaz de criar e editar informações e materiais relevantes da disciplina.<br>- O professor deve ser capaz de compartilhar as informações e materiais relevantes da disciplina com seus alunos.<br>- O professor deve ser capaz de acompanhar o acesso dos alunos às informações e materiais relevantes da disciplina.</td>
         <td style="border: 1px solid black; padding: 8px; text-align: center;">Alta</td>
-        <td style="border: 1px solid black; padding: 8px;"RF07</td>
+        <td style="border: 1px solid black; padding: 8px;">RF07</td>
     </tr>
     <tr>
         <td style="border: 1px solid black; padding: 8px; text-align: center;">US03</td>
