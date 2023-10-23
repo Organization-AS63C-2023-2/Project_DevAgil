@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 80%;">
     <thead>
         <tr style="background-color: purple; color: white">
             <th style="border: 1px solid black; padding: 8px; text-align: center;">ID</th>
