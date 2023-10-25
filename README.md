@@ -41,4 +41,4 @@ Neste repositório, você encontrará os seguintes documentos:
 Neste repositório, você encontrará os seguintes documentos:
 
 - [Requisitos Funcionais](Requisitos%20do%20Usuário/RF.md) (Link disponível em breve)
-- [Requisitos Não Funcionais](Requisitos%20de%20Usu%C3%A1rio/RNF.md) (Link disponível em breve)
+- [Requisitos Não Funcionais](Requisitos%20do%20Usuário/RNF.md) (Link disponível em breve)
