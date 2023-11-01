@@ -42,3 +42,6 @@ Neste repositório, você encontrará os seguintes documentos:
 
 - [Requisitos Funcionais](Requisitos%20do%20Usuário/RF.md) (Link disponível em breve)
 - [Requisitos Não Funcionais](Requisitos%20do%20Usuário/RNF.md) (Link disponível em breve)
+
+## Apresentação 
+link: (https://www.canva.com/design/DAFy8vHty04/NELXso_dNYENkBHG-JDUKw/view?utm_content=DAFy8vHty04&utm_campaign=designshare&utm_medium=link&utm_source=editor)
